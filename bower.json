@@ -1,0 +1,13 @@
+{
+  "name": "basic",
+  "version": "0.0.0",
+  "dependencies": {
+    "responsive.js": "*"
+  },
+  "devDependencies": {
+    "responsive.js": "*",
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5",
+    "fontawesome": "~4.4.0"
+  }
+}
